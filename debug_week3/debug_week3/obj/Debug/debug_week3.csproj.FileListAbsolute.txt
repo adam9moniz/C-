@@ -1,0 +1,7 @@
+C:\Users\Adam Moniz\Desktop\C#\debug_week3\debug_week3\bin\Debug\debug_week3.exe.config
+C:\Users\Adam Moniz\Desktop\C#\debug_week3\debug_week3\bin\Debug\debug_week3.exe
+C:\Users\Adam Moniz\Desktop\C#\debug_week3\debug_week3\bin\Debug\debug_week3.pdb
+C:\Users\Adam Moniz\Desktop\C#\debug_week3\debug_week3\obj\Debug\debug_week3.csprojAssemblyReference.cache
+C:\Users\Adam Moniz\Desktop\C#\debug_week3\debug_week3\obj\Debug\debug_week3.csproj.CoreCompileInputs.cache
+C:\Users\Adam Moniz\Desktop\C#\debug_week3\debug_week3\obj\Debug\debug_week3.exe
+C:\Users\Adam Moniz\Desktop\C#\debug_week3\debug_week3\obj\Debug\debug_week3.pdb

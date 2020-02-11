@@ -1,0 +1,10 @@
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\bin\Debug\csharpmidterm.exe.config
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\bin\Debug\csharpmidterm.exe
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\bin\Debug\csharpmidterm.pdb
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\obj\Debug\csharpmidterm.csprojAssemblyReference.cache
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\obj\Debug\csharpmidterm.Form1.resources
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\obj\Debug\csharpmidterm.Properties.Resources.resources
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\obj\Debug\csharpmidterm.csproj.GenerateResource.cache
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\obj\Debug\csharpmidterm.csproj.CoreCompileInputs.cache
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\obj\Debug\csharpmidterm.exe
+C:\Users\Adam Moniz\Desktop\C#\csharpmidterm\csharpmidterm\obj\Debug\csharpmidterm.pdb

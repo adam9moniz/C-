@@ -1,0 +1,10 @@
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\bin\Debug\lab4formpersonlab.exe.config
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\bin\Debug\lab4formpersonlab.exe
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\bin\Debug\lab4formpersonlab.pdb
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\obj\Debug\lab4formpersonlab.csprojAssemblyReference.cache
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\obj\Debug\lab4formpersonlab.Form1.resources
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\obj\Debug\lab4formpersonlab.Properties.Resources.resources
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\obj\Debug\lab4formpersonlab.csproj.GenerateResource.cache
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\obj\Debug\lab4formpersonlab.csproj.CoreCompileInputs.cache
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\obj\Debug\lab4formpersonlab.exe
+C:\Users\Adam Moniz\source\repos\lab4formpersonlab\lab4formpersonlab\obj\Debug\lab4formpersonlab.pdb
