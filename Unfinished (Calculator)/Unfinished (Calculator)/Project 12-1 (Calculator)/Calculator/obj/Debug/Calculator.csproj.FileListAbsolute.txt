@@ -1,0 +1,34 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\C#\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.exe
+E:\C#\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.pdb
+E:\C#\Project solutions\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.exe
+E:\C#\Project solutions\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.pdb
+E:\C#\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Form1.resources
+E:\C#\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\C#\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\JBIANCO\Desktop\Project 12-1 (Calculator)\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.exe
+C:\Users\JBIANCO\Desktop\Project 12-1 (Calculator)\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.pdb
+C:\Users\JBIANCO\Desktop\Project 12-1 (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\JBIANCO\Desktop\Project 12-1 (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\JBIANCO\Desktop\Project 12-1 (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\JBIANCO\Desktop\Project 12-1 (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\JBIANCO\Desktop\Project 12-1 (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\JBIANCO\Desktop\Project 12-1 (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.exe
+C:\Users\JBIANCO\Desktop\Project 12-1 (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Adam Moniz\Downloads\Unfinished (Calculator)\Unfinished (Calculator)\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.exe
+C:\Users\Adam Moniz\Downloads\Unfinished (Calculator)\Unfinished (Calculator)\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Adam Moniz\Downloads\Unfinished (Calculator)\Unfinished (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Adam Moniz\Downloads\Unfinished (Calculator)\Unfinished (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Adam Moniz\Downloads\Unfinished (Calculator)\Unfinished (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Adam Moniz\Downloads\Unfinished (Calculator)\Unfinished (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Adam Moniz\Downloads\Unfinished (Calculator)\Unfinished (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Adam Moniz\Downloads\Unfinished (Calculator)\Unfinished (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.exe
+C:\Users\Adam Moniz\Downloads\Unfinished (Calculator)\Unfinished (Calculator)\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.pdb
